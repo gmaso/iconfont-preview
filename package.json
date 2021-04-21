@@ -1,0 +1,28 @@
+{
+  "name": "iconfont-preview",
+  "version": "1.0.0",
+  "description": "## 功能简介 - iconfont web 在线预览工具，无需安装，打开即用。 - 可预览本地 ttf 文件中定义的所有 icon。 - 也支持预览 [阿里iconfont](https://www.iconfont.cn) 中的三种模式，unicode，Font class，Symbol。根据在线字体链接即可解析预览其定义的所有icon。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmaso/iconfont-preview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmaso/iconfont-preview/issues"
+  },
+  "homepage": "https://github.com/gmaso/iconfont-preview#readme",
+  "dependencies": {
+    "baidu-aip-sdk": "^2.4.6"
+  },
+  "devDependencies": {
+    "fs": "*",
+    "net": "^1.0.2",
+    "tls": "^0.0.1"
+  }
+}
